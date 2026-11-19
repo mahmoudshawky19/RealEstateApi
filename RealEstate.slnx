@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Application/Application.csproj" />
+  <Project Path="Domain/Domain.csproj" />
+  <Project Path="Infrastructure/Infrastructure.csproj" />
+  <Project Path="RealEstate/RealEstate.csproj" />
+  <Project Path="Tests/Tests.csproj" Id="591aa314-982d-4fb9-aa67-0aa2c191f77d" />
+</Solution>
